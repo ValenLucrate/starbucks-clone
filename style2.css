@@ -1,0 +1,18 @@
+body {
+    max-width: 50%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    background-color: #5fb8a0;
+}
+
+.starbucks-logo {
+    justify-content: flex;
+    margin: 10px 40px;
+    font-size: small;
+}
+
+.sparkles {
+    margin-bottom: 100px;
+}
