@@ -1,2 +1,3 @@
 # starbucks-clone
-not
+
+The website is not done yet!
